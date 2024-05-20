@@ -3,7 +3,7 @@ Both these projects use MediaPipe's face landmarking model.
 # Face Filters
 This project is an attempt at recreating face filters simalr to Snapchat or Instagram. The MediaPipe model used is Facemesh. 
 
-Workflow:
+Workflow:  
 --> The camera receives live video feed  
 --> The pretrained model is loaded  
 --> Frames from the live feed are sent to the pretrained model to identify human faces  
